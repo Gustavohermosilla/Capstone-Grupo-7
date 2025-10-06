@@ -1,4 +1,4 @@
-📊 Clarifi - Proyecto Next.js
+Clarifi - Proyecto Next.js
 
 Este proyecto es una aplicación web desarrollada con **Next.js**, **React**, **TypeScript** y **TailwindCSS**.  
 
